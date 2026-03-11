@@ -2,7 +2,7 @@ Risk Identification Report – Agricultural Insurance
 Prepared by: Jackson Mugwe
 Date: March 2026
 Project: Crop Yield Quality Assurance & Risk Analysis (10,000 records, Kenya-relevant variables)
-GitHub link github.com/Jack-khalif/CROP-YIELD-ANALYSIS/Risk_Identification_Report.md
+GitHub link [github.com/Jack-khalif/CROP-YIELD-ANALYSIS/Risk_Identification_Report.md](https://github.com/Jack-khalif/CROP-YIELD-ANALYSIS/Risk_Identification_Report.md)
 Executive Summary
 After completing full data quality checks following an improved SOP, the dataset is 100% clean (zero missing values, duplicates, outliers, or invalid dates). However, a critical risk for crop insurance emerged: yield is almost completely uncorrelated with all standard agronomic and environmental factors.
 This finding directly mirrors real-world challenges faced by Pula when insuring smallholders — poor predictability leads to inaccurate premium pricing and unexpected claims.
