@@ -1,5 +1,4 @@
 
-
 # Crop Yield Data Quality & Risk Analysis for Agricultural Insurance
 
 **Author:** Jackson Mugwe Waithaka  
